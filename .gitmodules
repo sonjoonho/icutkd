@@ -1,6 +1,0 @@
-[submodule "themes/meghna-hugo"]
-	path = themes/meghna-hugo
-	url = https://themes.gohugo.io/meghna-hugo/
-[submodule "themes/themes/ananke"]
-	path = themes/themes/ananke
-	url = https://github.com/budparr/gohugo-theme-ananke.git
