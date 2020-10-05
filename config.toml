@@ -15,9 +15,9 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
+  favicon = "/favicon.ico"
   site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "Imperial College Taekwondo."
   facebook = "https://www.facebook.com/groups/icutkd/"
   instagram = "https://instagram.com/icutkd"
   youtube = "https://www.youtube.com/channel/UC7f9wXxpl9P32ZicBC8_knQ"

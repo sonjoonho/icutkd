@@ -14,7 +14,7 @@ Taekwondo is a Korean martial art and the national sport of South Korea. In Kore
 
 To stay up to date, join our Facebook group and mailing list!
 
-For enquiries, please email us at icutkd@ic.ac.uk
+For enquiries, please read our [FAQs](/acc/taekwondo/faqs) email us at icutkd@ic.ac.uk.
 
 
 # Training Times (AY 2019-20)

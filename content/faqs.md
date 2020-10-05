@@ -38,8 +38,8 @@ We are hoping to include outdoor training sessions – please follow our Faceboo
 
 We have two main external instructors:
  
-    • Our head coach, Chris Dancel, is a 2nd Dan Black belt in WT style taekwondo, as well as plenty of experience in other martial arts and self-defence systems.
-    • Master Reza Saberi, a 5th Dan black belt in WT style, and a practicing member of the GB Taekwondo team. 
+* Our head coach, Chris Dancel, is a 2nd Dan Black belt in WT style taekwondo, as well as plenty of experience in other martial arts and self-defence systems.
+* Master Reza Saberi, a 5th Dan black belt in WT style, and a practicing member of the GB Taekwondo team. 
 
 On top of this, we have many experienced student coaches, including Wim G (3rd Dan ITF), among others. Whatever your skill level/ affiliation, we have you covered!
 
