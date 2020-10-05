@@ -1,4 +1,29 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+title = "ICUTKD"
+baseURL = "https://www.union.ic.ac.uk/acc/taekwondo/"
+languageCode = "en-gb"
 theme = "ananke"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "The last theme you'll ever need. Maybe."
+  facebook = "https://www.facebook.com/groups/icutkd/"
+  instagram = "https://instagram.com/icutkd"
+  youtube = "https://www.youtube.com/channel/UC7f9wXxpl9P32ZicBC8_knQ"
+  # Use any colour from https://tachyons.io/docs/themes/skins/.
+  background_color_class = "bg-blue"
+  featured_image = "/img/welcome-background.jpg"
+  recent_posts_number = 2
+  custom_css = ["css/overrides.css"]
+
