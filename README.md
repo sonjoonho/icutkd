@@ -4,6 +4,14 @@ This is the ICUTKD website, new for 2020. It is built with [Hugo](https://gohugo
 
 ## Editing Content
 
+### Cloning
+
+You will need [Git](https://git-scm.com/). To clone this repo, run
+
+```
+git clone https://github.com/sonjoonho/icutkd.git
+```
+
 ### Pages
 
 Content is written in [markdown](https://www.markdownguide.org/). Website pages can be found in the `content/` directory. To add a new page, simply create a new file in this directory. Use the existing files as a template.
@@ -26,7 +34,15 @@ which will start a local webserver. Navigate to localhost:1313 to view a local v
 
 ## Uploading
 
-Once you are done editing the site, you need to upload a new version of the website to the union webserver. To do this, first run 
+Once you are done editing the site, please commit and push your changes to https://github.com/sonjoonho/icutkd. To do this, you will need a [GitHub](https://github.com) account. Then do
+
+```
+git add .
+git commit -m "<Describe changes>"
+git push origin master
+```
+
+Finally, you need to upload a new version of the website to the union webserver. To do this, first run 
 
 ```
 hugo
